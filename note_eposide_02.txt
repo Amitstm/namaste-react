@@ -1,0 +1,11 @@
+package.json is the configuration for NPM, it keeps the track of what package version in our system
+What is buindler
+webpack, veet, parcel
+-D means while npm install there are two type dependecies(package) one is dev-depencies one is normal dependecies
+what is dev -depencies (it is generally required development of dev)
+parcel is the beast 
+tidle and caret
+package-lock.json : keeps track of exact version of package
+transitive dependecies
+npx means exe tueing the package.
+cdn link is good practice to 
